@@ -3868,7 +3868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LOCAL1:XIAO-ESP32-C6"
+		(property "Footprint" "LOCAL1:XIAO-ESP32-C6-DIP"
 			(at -4.572 -18.542 0)
 			(effects
 				(font
